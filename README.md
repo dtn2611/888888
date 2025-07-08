@@ -42,6 +42,6 @@
 
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] ( https://github.com/dtn2611/888888 ）</span>
 
 
